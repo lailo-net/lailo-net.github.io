@@ -3,7 +3,5 @@ function twoplustwo(){
     alert("no")
     prompt('2 + 2')
     alert('no')
-    prompt('2 + 2')
-    alert('no')
 }   
 
